@@ -1,25 +1,28 @@
-# Práctica Final APA: Predicción de Fallo en Robot UR3
+# APA Final Project: UR3 Robot Fault Prediction
 
-**Asignatura:** Aprendizaje Automático (APA) - FIB UPC  
-**Autores:** Víctor Ramírez Arimaha y Adrià Cebrián Ruiz  
-**Fecha:** Enero 2026
+**Course:** Machine Learning (APA) - FIB UPC
+**Authors:** Víctor Ramírez Arimaha & Adrià Cebrián Ruiz
+**Date:** January 2026
 
-Este repositorio contiene el código fuente y el informe para la práctica final, consistente en la detección y clasificación de fallos en un brazo robótico utilizando datos de sensores temporales.
-## Requisitos de Instalación
+This repository contains the source code and the report for the final project, which focuses on detecting and classifying faults in a UR3 robotic arm using temporal sensor data.
 
-El proyecto se ha desarrollado en Python 3. Se recomienda el uso de un entorno virtual para evitar conflictos de dependencias.
+** Note:** The comprehensive study report is written in Spanish, as it was originally submitted as the final project for the APA (Machine Learning) course. You can find the full document detailing the results, feature engineering decisions... in the `project-report.pdf` file.
 
-### Pasos para configurar el entorno:
+## Installation Requirements
+
+The project was developed using Python 3. Using a virtual environment is recommended to avoid dependency conflicts.
+
+### Setup steps:
 
 ```bash
-# 1. Crear entorno virtual (Opcional pero recomendado)
+# 1. Create a virtual environment (Optional but recommended)
 python3 -m venv venv
 
-# 2. Activar entorno
-# En Windows:
+# 2. Activate the environment
+# On Windows:
 .\venv\Scripts\activate
-# En Mac/Linux:
+# On Mac/Linux:
 source venv/bin/activate
 
-# 3. Instalar dependencias
+# 3. Install dependencies
 pip install -r requirements.txt
