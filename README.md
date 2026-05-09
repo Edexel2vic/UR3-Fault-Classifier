@@ -3,9 +3,9 @@ Note: The documentation of this project is written in Spanish, as it was origina
 
 # APA Final Project: UR3 Robot Fault Prediction
 
-**Course:** Machine Learning (APA) - FIB UPC
-**Authors:** Víctor Ramírez Arimaha & Adrià Cebrián Ruiz
-**Date:** January 2026
+* **Course:** Machine Learning (APA) - FIB UPC
+* **Authors:** Víctor Ramírez Arimaha & Adrià Cebrián Ruiz
+* **Date:** January 2026
 
 This repository contains the source code and the report for the final project, which focuses on detecting and classifying faults in a UR3 robotic arm using temporal sensor data.
 
