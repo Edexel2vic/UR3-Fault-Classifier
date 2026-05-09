@@ -1,3 +1,6 @@
+Note: The documentation of this project is written in Spanish, as it was originally submitted as the final project for the APA (Machine Learning) course. You can find the full document detailing the results, feature engineering decisions... in the `project-report.pdf` file.
+
+
 # APA Final Project: UR3 Robot Fault Prediction
 
 **Course:** Machine Learning (APA) - FIB UPC
@@ -5,8 +8,6 @@
 **Date:** January 2026
 
 This repository contains the source code and the report for the final project, which focuses on detecting and classifying faults in a UR3 robotic arm using temporal sensor data.
-
-** Note:** The comprehensive study report is written in Spanish, as it was originally submitted as the final project for the APA (Machine Learning) course. You can find the full document detailing the results, feature engineering decisions... in the `project-report.pdf` file.
 
 ## Installation Requirements
 
